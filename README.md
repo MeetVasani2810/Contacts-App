@@ -6,9 +6,7 @@ A modern Android application built with **Jetpack Compose** and **Kotlin**, desi
 
 - **Add New Contacts**: Easily add new contacts with essential details.
 - **View Contacts List**: Browse through a list of all saved contacts.
-- **Edit Contact Information**: Update existing contact details seamlessly.
 - **Delete Contacts**: Remove contacts that are no longer needed.
-- **Search Functionality**: Quickly find contacts by name or other attributes.
 - **Responsive UI**: Clean and intuitive user interface built with Jetpack Compose.
 - **MVVM Architecture**: Implements Model-View-ViewModel for a clear separation of concerns.
 - **Room Database Integration**: Efficient local data storage and retrieval.
